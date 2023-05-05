@@ -18,4 +18,4 @@ Here's a comparison table highlighting when to use Azure Cognitive Search and Ve
 
 Here's a comparison table highlighting when to use Azure Cognitive Search and Vector Database (e.g., Redis with a vector search module or Pinecone) in an Azure OpenAI architecture:
 
-![image](https://user-images.githubusercontent.com/13455341/236362084-180306ce-8ee0-4aaf-a73a-07ee59a93611.png)
+![image](https://user-images.githubusercontent.com/13455341/236362151-c34a572c-742d-4be8-9ab2-b932a2d5dd56.png)
