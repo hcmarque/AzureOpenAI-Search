@@ -16,13 +16,13 @@ Here's a comparison table highlighting when to use Azure Cognitive Search and Ve
 3. You need automatic horizontal and vertical scaling to handle large-scale deployments.
 4. Your use case involves real-time recommendation systems, anomaly detection, similarity search in large-scale datasets, content-based recommendations, or AI-powered search features.
 
-### Comparison Table Azure Cognitive Search vs Verctor DB ###
+## Comparison Table Azure Cognitive Search vs Verctor DB ##
 
 Here's a comparison table highlighting when to use Azure Cognitive Search and Vector Database (e.g., Redis with a vector search module or Pinecone) in an Azure OpenAI architecture:
 
 ![image](https://user-images.githubusercontent.com/13455341/236362911-86e68202-78ec-4874-a3ca-c927ca541b5b.png)
 
-### Comparison Table of Verctor DB used on Azure OpenAI Architecture ###
+## Comparison Table of Verctor DB used on Azure OpenAI Architecture ##
 
 Here's a side-by-side comparison of Redis with a vector search module (e.g., RedisAI or RediSearch) and Pinecone, considering that the vector database will be used together with Azure OpenAI:
 
