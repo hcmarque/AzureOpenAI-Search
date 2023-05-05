@@ -33,5 +33,5 @@ In summary, choose Redis with a vector search module when you need a fast key-va
 
 References: 
 [Redis](https://redis.com/blog/rediscover-redis-for-vector-similarity-search/#:~:text=RediSearch%20is%20a%20Redis%20module%20that%20provides%20query,vector%20data%20stored%20as%20BLOBs%20in%20Redis%20hashes)
-[Pinecone]()
+[Pinecone](https://docs.pinecone.io/docs/overview)
 
