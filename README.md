@@ -29,8 +29,11 @@ Here's a side-by-side comparison of Redis with a vector search module (e.g., Red
 ![image](https://user-images.githubusercontent.com/13455341/236362979-f449fc12-847a-4f7a-883d-65275be73ece.png)
 
 ### In summary: ###
+
 Choose Redis with a vector search module when you need a fast key-value store with vector search capability and are comfortable with self-management and maintenance within the Azure environment. 
+
 Use Pinecone when you require a fully managed vector search service with advanced similarity search and ranking capabilities, and automatic scaling. Both options would require custom integration with Azure OpenAI. 
+
 Consider your specific requirements, existing infrastructure, and preferences to choose the best option for your architecture. 
 
 
